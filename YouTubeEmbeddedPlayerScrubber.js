@@ -5,6 +5,8 @@
 // @match        *://www.youtube.com/embed/*
 // @match        *://www.youtube-nocookie.com/embed/*
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/ScepticDope/FuckDarkPatterns/main/YouTubeEmbeddedPlayerScrubber.js
+// @downloadURL  https://raw.githubusercontent.com/ScepticDope/FuckDarkPatterns/main/YouTubeEmbeddedPlayerScrubber.js
 // ==/UserScript==
 
 (() => {
